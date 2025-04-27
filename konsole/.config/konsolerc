@@ -1,0 +1,21 @@
+[Desktop Entry]
+DefaultProfile=zerlei.profile
+
+[FileDialogSize]
+1829x1143 screen: Height=659
+1829x1143 screen: Width=1056
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+ToolBarsMovable=Enabled
+
+[Notification Messages]
+CloseAllTabs=true
+
+[TabBar]
+ExpandTabWidth=true
+
+[UiSettings]
+ColorScheme=
