@@ -9,6 +9,7 @@ DefaultProfile=zerlei.profile
 ConfigVersion=1
 
 [MainWindow]
+MenuBar=Enabled
 ToolBarsMovable=Enabled
 
 [Notification Messages]

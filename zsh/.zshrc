@@ -106,7 +106,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias musicfox="flatpak run io.github.go_musicfox.go-musicfox"
+# alias musicfox="flatpak run io.github.go_musicfox.go-musicfox"
 
 if [ -e /home/zerlei/.nix-profile/etc/profile.d/nix.sh ]; then . /home/zerlei/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
 
